@@ -1,0 +1,37 @@
+table {
+    border: none;
+}
+
+thead {
+    background-color: #e0e0e0;
+}
+
+th, td {
+    margin-left: 10px;
+    padding: 10px 20px;
+}
+
+.serial {
+    text-align: center;
+}
+
+.review-form-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.review-form {
+    width: 350px;
+    padding: 20px;
+    background: #c6c6c6;
+    border-radius: 10px;
+}
+
+.review-btn:disabled {
+    background-color: grey;
+}
+
+.rating-stars {
+    width: 130px;
+}

@@ -1,0 +1,9 @@
+.report-layout-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.report-download-button {
+    background-color: lightblue;
+    border-radius: 5px;
+}
